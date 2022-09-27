@@ -1,6 +1,8 @@
 # Superstore dataset SQL ingestion
 
->*Ingestion data into PostgreSQL, data modeling, AWS cloud using practice and data visualization*
+>*"Practice makes perfect."*
+
+*Ingestion data into PostgreSQL, data modeling, AWS cloud using practice and data visualization*
 
 ## 1. Ingest Superstore data from excel into SQL database.
 
@@ -13,5 +15,8 @@
 ## 2. Data Modeling
 
 *For data modeling using https://sqldbm.com*
-
+- Conceptual Modeling
 ![Image](https://github.com/VostanieKotov/DE101-mod2-SQL/blob/main/Concept%20modeling.PNG)
+
+- Logical Modeling
+![Image](https://github.com/VostanieKotov/DE101-mod2-SQL/blob/main/logical%20modeling.PNG)
