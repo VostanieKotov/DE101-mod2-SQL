@@ -14,4 +14,4 @@
 
 *For data modeling using https://sqldbm.com*
 
-    ![Image](https://github.com/VostanieKotov/DE101-mod2-SQL/blob/main/Concept%20modeling.PNG)
+![Image](https://github.com/VostanieKotov/DE101-mod2-SQL/blob/main/Concept%20modeling.PNG)
