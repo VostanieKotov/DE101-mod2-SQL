@@ -27,4 +27,4 @@
 
 ## 4. Data Studio data visualization
 
-![Image](https://github.com/VostanieKotov/DE101-mod2-SQL/blob/main/Superstore%20Data%20Studio.pdf)
+- [Superstore Data Studio.pdf](https://github.com/VostanieKotov/DE101-mod2-SQL/blob/main/Superstore%20Data%20Studio.pdf)
