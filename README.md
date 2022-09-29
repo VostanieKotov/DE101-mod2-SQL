@@ -23,6 +23,8 @@
 
 ## 3. AWS Database data ingestion
 
+Practice Updated data models and data to upload to Amazon RDS cloud database
+
 ![Image](https://github.com/VostanieKotov/DE101-mod2-SQL/blob/main/AWS.PNG)
 
 * [From raw to process.sql](https://github.com/VostanieKotov/DE101-mod2-SQL/blob/main/From%20raw%20to%20process.sql)
