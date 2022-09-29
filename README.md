@@ -23,6 +23,8 @@
 
 ## 3. AWS Database data ingestion
 
+![Image](https://github.com/VostanieKotov/DE101-mod2-SQL/blob/main/AWS%20architecture.drawio)
+
 * [From raw to process.sql](https://github.com/VostanieKotov/DE101-mod2-SQL/blob/main/From%20raw%20to%20process.sql)
 
 ## 4. Data Studio data visualization
