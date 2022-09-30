@@ -25,9 +25,10 @@
 
 Practice Updated data models and data to upload to Amazon RDS cloud database
 
-![Image](https://github.com/VostanieKotov/DE101-mod2-SQL/blob/main/AWS.PNG)
+![Image](https://github.com/VostanieKotov/DE101-mod2-SQL/blob/main/AWS%20Lightsail.png)
 
 * [From raw to process.sql](https://github.com/VostanieKotov/DE101-mod2-SQL/blob/main/From%20raw%20to%20process.sql)
+* [AWS Architecture.drawio](https://github.com/VostanieKotov/DE101-mod2-SQL/blob/main/AWS%20Architecture.drawio)
 
 ## 4. Data Studio data visualization
 ![Image](https://github.com/VostanieKotov/DE101-mod2-SQL/blob/main/Superstore.PNG)
